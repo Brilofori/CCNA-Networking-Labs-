@@ -12,7 +12,7 @@ Two branch offices (New York and Tokyo) connected over a simulated WAN.
 
 **WAN:** Both branches connect through a router simulating the internet
 
-**Tokyo Branch:** ASA 5506-X Firewall → 2911 Router → 2960 Switch → Server0, Meraki Server0
+**Tokyo Branch:** ASA 5506-X Firewall → 2911 Router → 2960 Switch → Server1, Meraki Server2
 
 
 ## Key Takeaways
