@@ -1,3 +1,3 @@
-### lab Objecttive 
+# lab Objective 
 
-# Configure static routes on the routers to enable PC1 to successfully ping PC2.
+### Configure static routes on the routers to enable PC1 to successfully ping PC2.
