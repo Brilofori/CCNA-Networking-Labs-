@@ -1,3 +1,5 @@
+# QUESTIONS ANSWERED 
+
 1. Use the CLI to check the current STP topology.  What is the current root bridge?
     What is the STP role/state of each port on each switch?
 
